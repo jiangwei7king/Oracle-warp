@@ -39,7 +39,7 @@
 提示：密码不要设置得过于简单，容易被破解。密钥文件要保存好，以防万一！
 
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/YG-tsj/Oracle-warp/main/root.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/jiangwei7king/Oracle-warp/main/root.sh)
 ```
 -----------------------------------------------------------------------------------------------------
 ### 整合WARP及其他功能！全新一键脚本(功能继续添加中……)：
